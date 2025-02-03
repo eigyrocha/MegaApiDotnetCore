@@ -132,19 +132,19 @@
 
 ```🌐
 src
-├── 📂 Controllers      [Routes for endpoints]
-├── 📂 Models           [Database models]
-├── 📂 Services         [Business rules]
-├── 📂 Middlewares      [Intermediate functions between the HTTP request and the final server response]
-├── 📂 Database         [Structures related to the database]
-│   ├── 📂 DTOs             [Input Models and View Models (Data Transfer Objects)]
-│   ├── 📂 EntityFramework  [Files related to the ORM Entity Framework]
-│   │     ├── 📂 Context         [Entity context settings]
-│   │     ├── 📂 Migrations      [Migrations for database updates]
-│   ├── 📂 Repositories     [Repository pattern]
+├── 📂 Controles      [Rotas para os endpoints]
+├── 📂 Modelos           [Modelos do banco de dados]
+├── 📂 Serviços         [Regras de negócio]
+├── 📂 Middlewares      [Funções intermediárias entre a requisição HTTP e a resposta final do servidor]
+├── 📂 Banco de dados         [Estruturas relacionadas ao banco de dados]
+│   ├── 📂 DTOs             [Modelos de entrada e saída (Objetos de Transferência de Dados)]
+│   ├── 📂 EntityFramework  [Arquivos relacionados ao ORM Entity Framework]
+│   │     ├── 📂 Contexto        [Configurações do contexto do Entity Framework]
+│   │     ├── 📂 Migrações      [Migrações para atualização do banco de dados]
+│   ├── 📂 Repositórios     [Implementação do padrão de repositório]
 ```
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+⌨️ Eigy Rocha -
+[Github](https://github.com/eigyrocha)
