@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-## Techniques Used
+## Técnicas usadas
 
 <p align="center">
   - <b>Entity Framework Core:</b> ORM for data management.<br />
@@ -81,7 +81,7 @@
   enhanced testability.<br />
 </p>
 
-## Dependencies
+## Dependências
 
 <table align="center">
   <tr>
